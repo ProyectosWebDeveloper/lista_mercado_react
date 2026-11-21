@@ -11,7 +11,7 @@ function Bienvenido({ confetti }) {
 
     return (
         <section>
-            <h1>Bienvenido a mi Lista de Mercado 🥥</h1>
+            <h1 className="texto">Bienvenido a mi Lista de Mercado 🥥</h1>
             <p>Mini aplicacion para agregar productos a mi lista</p>
 
             {/** utilizando la props compartida (funcion) */}
